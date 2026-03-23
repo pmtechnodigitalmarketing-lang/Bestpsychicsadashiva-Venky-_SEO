@@ -1,0 +1,158 @@
+DUPLICATE META DESCRIPTION CHECK GUIDE (HARTFORD SEO)
+====================================================
+
+This document explains how to find and fix duplicate meta descriptions
+for a website targeting Hartford, Connecticut.
+
+A meta description is a short summary of a webpage that appears in
+search engine results. Duplicate meta descriptions can reduce SEO
+performance and click-through rates.
+
+----------------------------------------
+STEP 1: UNDERSTAND META DESCRIPTION
+----------------------------------------
+
+A meta description provides a summary of webpage content.
+
+Example:
+<meta name="description" content="Best astrologer in Hartford offering love, marriage, and career solutions.">
+
+Rules:
+- Each page must have a unique meta description
+- It should describe the page content clearly
+- It should include keywords and location (Hartford)
+
+----------------------------------------
+STEP 2: PROBLEM WITH DUPLICATE META DESCRIPTIONS
+----------------------------------------
+
+Duplicate meta descriptions can:
+- Confuse search engines
+- Reduce click-through rate (CTR)
+- Lower page relevance
+- Impact SEO performance
+
+Goal:
+Ensure every page has a unique and meaningful description.
+
+----------------------------------------
+STEP 3: FIND DUPLICATE META DESCRIPTIONS USING SEMRUSH
+----------------------------------------
+
+Steps:
+1. Open SEMrush
+2. Go to Site Audit
+3. Enter your domain
+4. Run the audit
+5. Go to Issues tab
+6. Find "Duplicate Meta Descriptions"
+
+Output:
+- List of pages with duplicate descriptions
+- Error details
+- Affected URLs
+
+----------------------------------------
+STEP 4: FIND DUPLICATE META DESCRIPTIONS USING SCREAMING FROG
+----------------------------------------
+
+Steps:
+1. Open Screaming Frog SEO Spider
+2. Enter your website URL
+3. Click Start
+4. Go to "Meta Description" tab
+5. Filter by "Duplicate"
+
+Output:
+- Duplicate meta descriptions
+- Missing descriptions
+- Length issues
+
+----------------------------------------
+STEP 5: ANALYZE THE ISSUE
+----------------------------------------
+
+Check:
+- Pages with same descriptions
+- Generic descriptions used multiple times
+- Pages targeting same keywords
+
+Common mistakes:
+- Copying same description across pages
+- Not adding location
+- Using default or empty descriptions
+
+----------------------------------------
+STEP 6: FIX DUPLICATE META DESCRIPTIONS
+----------------------------------------
+
+Best Practices:
+- Write unique descriptions for each page
+- Include target keywords naturally
+- Add location keyword (Hartford)
+- Keep length between 150–160 characters
+
+Example:
+
+Wrong:
+Best astrologer services for all problems.
+
+Best astrologer services for all problems.
+
+Correct:
+Get expert astrology services in Hartford for love, marriage, and career problems. Trusted solutions with proven results.
+
+----------------------------------------
+STEP 7: META DESCRIPTION FORMULA
+----------------------------------------
+
+Use this formula:
+
+Primary Keyword + Services + Location + Value/CTA
+
+Example:
+Best Astrologer in Hartford for Love & Marriage Solutions – Get Trusted Guidance Today
+
+----------------------------------------
+STEP 8: IMPLEMENT CHANGES
+----------------------------------------
+
+Update meta descriptions in:
+- WordPress (Yoast SEO / RankMath)
+- Website CMS
+- HTML <meta description> tag
+
+After update:
+- Save changes
+- Re-crawl website
+- Recheck duplicates
+
+----------------------------------------
+STEP 9: FINAL CHECK
+----------------------------------------
+
+- Run SEMrush audit again
+- Crawl with Screaming Frog
+- Ensure no duplicate descriptions exist
+
+----------------------------------------
+SEO BEST PRACTICES
+----------------------------------------
+
+- Always write unique descriptions
+- Add call-to-action (CTA)
+- Avoid keyword stuffing
+- Match description with page content
+
+----------------------------------------
+FINAL RESULT
+----------------------------------------
+
+- No duplicate meta descriptions
+- Improved click-through rate (CTR)
+- Better search visibility
+- Strong local SEO in Hartford
+
+====================================================
+END OF DOCUMENT
+====================================================

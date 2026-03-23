@@ -1,0 +1,148 @@
+TECHNICAL SEO ISSUES REPORT & FIX GUIDE
+======================================
+
+This document explains common technical SEO issues found on the website
+and how to fix them to improve search engine performance and user experience.
+
+----------------------------------------
+ISSUE 1: MULTIPLE HEAD TAGS
+----------------------------------------
+
+Problem:
+More than one <head> tag is present on the page.
+
+Why it is bad:
+- Confuses search engines
+- Breaks HTML structure
+- Can affect indexing
+
+Solution:
+- Ensure only one <head> tag exists
+- Validate HTML structure
+- Remove duplicate head sections
+
+----------------------------------------
+ISSUE 2: MULTIPLE TITLE TAGS
+----------------------------------------
+
+Problem:
+More than one <title> tag is used on a page.
+
+Why it is bad:
+- Search engines may ignore titles
+- Affects ranking signals
+- Creates confusion
+
+Solution:
+- Keep only one unique <title> tag per page
+- Ensure it contains the main keyword
+- Keep length between 50–60 characters
+
+----------------------------------------
+ISSUE 3: MULTIPLE BODY TAGS
+----------------------------------------
+
+Problem:
+More than one <body> tag is present.
+
+Why it is bad:
+- Invalid HTML structure
+- Rendering issues
+- Crawling problems
+
+Solution:
+- Use only one <body> tag
+- Fix theme/template code
+- Validate using HTML validator
+
+----------------------------------------
+ISSUE 4: MISSING H1 TAG
+----------------------------------------
+
+Problem:
+Page does not contain an H1 heading.
+
+Why it is bad:
+- Search engines cannot understand main topic
+- Weak SEO structure
+
+Solution:
+- Add one H1 tag per page
+- Include primary keyword
+- Make it relevant to page content
+
+Example:
+<h1>Best Astrologer Services in Hartford</h1>
+
+----------------------------------------
+ISSUE 5: MULTIPLE META DESCRIPTIONS
+----------------------------------------
+
+Problem:
+More than one meta description is used.
+
+Why it is bad:
+- Search engines ignore descriptions
+- Reduces click-through rate
+
+Solution:
+- Keep only one meta description
+- Make it unique and relevant
+- Use 150–160 characters
+
+----------------------------------------
+ISSUE 6: TITLE LENGTH TOO LONG
+----------------------------------------
+
+Problem:
+Title exceeds 60 characters.
+
+Why it is bad:
+- Gets truncated in search results
+- Reduces readability
+
+Solution:
+- Keep title within 50–60 characters
+- Place important keywords at the beginning
+
+----------------------------------------
+ISSUE 7: PAGE NOT FOUND (404 ERROR)
+----------------------------------------
+
+Problem:
+Page returns a 404 error.
+
+Why it is bad:
+- Poor user experience
+- Loss of traffic
+- Crawl issues
+
+Solution:
+- Fix broken URL
+- Add 301 redirect to relevant page
+- Restore page if necessary
+
+----------------------------------------
+FINAL CHECKLIST
+----------------------------------------
+
+✔ Only one <head>, <title>, and <body> tag  
+✔ One H1 tag per page  
+✔ One meta description per page  
+✔ Title length optimized  
+✔ No 404 errors  
+
+----------------------------------------
+FINAL RESULT
+----------------------------------------
+
+After fixing these issues:
+
+- Improved website structure
+- Better search engine crawling
+- Higher rankings
+- Improved user experience
+
+======================================
+END OF DOCUMENT
+======================================

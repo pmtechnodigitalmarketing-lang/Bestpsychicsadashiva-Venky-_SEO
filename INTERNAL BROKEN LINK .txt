@@ -1,0 +1,163 @@
+INTERNAL BROKEN LINK CHECK GUIDE (SEO)
+=====================================
+
+This document explains how to find and fix internal broken links
+on a website to improve SEO performance and user experience.
+
+A broken link is a link that does not work and returns an error
+(such as 404 Not Found). Internal broken links occur within your website.
+
+----------------------------------------
+STEP 1: UNDERSTAND BROKEN LINKS
+----------------------------------------
+
+Internal links connect one page of your website to another.
+
+Broken links happen when:
+- The page URL is changed or deleted
+- The link is typed incorrectly
+- The page no longer exists
+
+Example:
+https://example.com/services → returns 404 error
+
+Goal:
+Ensure all internal links work properly.
+
+----------------------------------------
+STEP 2: WHY BROKEN LINKS ARE BAD
+----------------------------------------
+
+Broken links can:
+- Harm user experience
+- Increase bounce rate
+- Waste crawl budget
+- Reduce search engine rankings
+
+Goal:
+Maintain a healthy and error-free website.
+
+----------------------------------------
+STEP 3: FIND BROKEN LINKS USING SCREAMING FROG
+----------------------------------------
+
+Tool: Screaming Frog SEO Spider
+
+Steps:
+1. Open Screaming Frog
+2. Enter your website URL
+3. Click Start
+4. Go to "Response Codes" tab
+5. Filter by "Client Error (4xx)"
+
+Output:
+- List of broken URLs
+- Status codes (404, 403, etc.)
+- Source pages (where link exists)
+
+----------------------------------------
+STEP 4: FIND BROKEN LINKS USING SEMRUSH
+----------------------------------------
+
+Tool: SEMrush
+
+Steps:
+1. Open SEMrush
+2. Go to Site Audit
+3. Enter your domain
+4. Run audit
+5. Go to Issues tab
+6. Find "Broken Internal Links"
+
+Output:
+- Pages containing broken links
+- Error details
+- Affected URLs
+
+----------------------------------------
+STEP 5: ANALYZE THE ISSUE
+----------------------------------------
+
+Check:
+- Which pages contain broken links
+- Which URLs are returning errors
+- Whether the page was deleted or moved
+
+Common errors:
+- 404 (Not Found)
+- 500 (Server Error)
+- Incorrect URLs
+
+Goal:
+Identify root cause of broken links.
+
+----------------------------------------
+STEP 6: FIX BROKEN LINKS
+----------------------------------------
+
+Solutions:
+
+1. Update the URL
+   - Replace with correct working link
+
+2. Redirect the page
+   - Use 301 redirect to a relevant page
+
+3. Remove the link
+   - If page is no longer needed
+
+4. Restore the page
+   - If deleted by mistake
+
+Example:
+
+Wrong:
+https://example.com/old-page (404)
+
+Correct:
+https://example.com/new-page
+
+----------------------------------------
+STEP 7: IMPLEMENT FIXES
+----------------------------------------
+
+Update links in:
+- Website content
+- Navigation menu
+- Footer links
+- Blog posts
+
+After fixing:
+- Save changes
+- Re-crawl website
+- Confirm errors are resolved
+
+----------------------------------------
+STEP 8: FINAL CHECK
+----------------------------------------
+
+- Run Screaming Frog again
+- Check SEMrush audit
+- Ensure no broken internal links remain
+
+----------------------------------------
+SEO BEST PRACTICES
+----------------------------------------
+
+- Regularly audit your website
+- Avoid deleting pages without redirects
+- Use proper URL structure
+- Monitor crawl errors
+
+----------------------------------------
+FINAL RESULT
+----------------------------------------
+
+- No broken internal links
+- Improved user experience
+- Better crawlability
+- Higher search engine rankings
+
+=====================================
+END OF DOCUMENT
+=====================================

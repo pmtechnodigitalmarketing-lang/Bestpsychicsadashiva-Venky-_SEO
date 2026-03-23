@@ -1,0 +1,157 @@
+DUPLICATE TITLE CHECK GUIDE (HARTFORD SEO)
+==========================================
+
+This document explains how to find and fix duplicate title tags
+for a website targeting Hartford, Connecticut.
+
+Duplicate titles occur when multiple pages have the same or similar
+title tags. This can negatively impact SEO and confuse search engines.
+
+----------------------------------------
+STEP 1: UNDERSTAND TITLE TAGS
+----------------------------------------
+
+A title tag defines the name of a webpage in search results.
+
+Example:
+<title>Best Astrologer in Hartford</title>
+
+Rules:
+- Each page must have a unique title
+- Titles should include target keywords
+- Titles should include location (Hartford)
+
+----------------------------------------
+STEP 2: PROBLEM WITH DUPLICATE TITLES
+----------------------------------------
+
+Duplicate titles can:
+- Confuse search engines
+- Reduce rankings
+- Lower click-through rate (CTR)
+- Affect keyword targeting
+
+Goal:
+Ensure every page has a unique and optimized title.
+
+----------------------------------------
+STEP 3: FIND DUPLICATE TITLES USING SEMRUSH
+----------------------------------------
+
+Steps:
+1. Open SEMrush
+2. Go to Site Audit
+3. Enter your domain
+4. Run the audit
+5. Go to Issues tab
+6. Find "Duplicate Title Tags"
+
+Output:
+- List of duplicate pages
+- Error severity
+- Affected URLs
+
+----------------------------------------
+STEP 4: FIND DUPLICATE TITLES USING SCREAMING FROG
+----------------------------------------
+
+Steps:
+1. Open Screaming Frog SEO Spider
+2. Enter your website URL
+3. Click Start
+4. Go to "Page Titles" tab
+5. Filter by "Duplicate"
+
+Output:
+- Duplicate titles
+- Missing titles
+- Title length issues
+
+----------------------------------------
+STEP 5: ANALYZE THE ISSUE
+----------------------------------------
+
+Check:
+- Pages with same titles
+- Pages targeting same keywords
+- Generic or repeated titles
+
+Common mistakes:
+- Using same title on multiple pages
+- Not adding location
+- Using default titles like "Home"
+
+----------------------------------------
+STEP 6: FIX DUPLICATE TITLES
+----------------------------------------
+
+Best Practices:
+- Write unique titles for each page
+- Add location keyword (Hartford)
+- Use different service keywords
+- Keep title length 50–60 characters
+
+Example:
+
+Wrong:
+Best Astrologer Services
+Best Astrologer Services
+
+Correct:
+Best Astrologer in Hartford – Expert Consultation
+Love Problem Solution in Hartford – Trusted Astrologer
+
+----------------------------------------
+STEP 7: TITLE FORMULA
+----------------------------------------
+
+Use this formula:
+
+Primary Keyword + Service + Location
+
+Example:
+Best Astrologer for Love Problem in Hartford
+
+----------------------------------------
+STEP 8: IMPLEMENT CHANGES
+----------------------------------------
+
+Update titles in:
+- WordPress (Yoast SEO / RankMath)
+- Website CMS
+- HTML <title> tag
+
+After update:
+- Save changes
+- Re-crawl website
+- Recheck duplicates
+
+----------------------------------------
+STEP 9: FINAL CHECK
+----------------------------------------
+
+- Run SEMrush audit again
+- Crawl with Screaming Frog
+- Ensure no duplicate titles exist
+
+----------------------------------------
+SEO BEST PRACTICES
+----------------------------------------
+
+- Always use unique titles
+- Avoid keyword stuffing
+- Match title with page content
+- Focus on user intent
+
+----------------------------------------
+FINAL RESULT
+----------------------------------------
+
+- No duplicate titles
+- Improved search rankings
+- Better click-through rate
+- Strong local SEO in Hartford
+
+==========================================
+END OF DOCUMENT
+==========================================

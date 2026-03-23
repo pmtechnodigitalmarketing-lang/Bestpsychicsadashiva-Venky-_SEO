@@ -1,0 +1,224 @@
+COMPLETE WEBSITE AUDIT GUIDE (SEO)
+=================================
+
+This document provides a complete website audit process to analyze
+and improve SEO performance, technical health, and user experience.
+
+----------------------------------------
+STEP 1: WEBSITE OVERVIEW
+----------------------------------------
+
+Check:
+- Domain name
+- HTTPS status (SSL certificate)
+- Mobile-friendliness
+- Website accessibility
+
+Goal:
+Ensure website is secure and accessible.
+
+----------------------------------------
+STEP 2: TECHNICAL SEO AUDIT
+----------------------------------------
+
+Check for:
+
+- Broken links (404 errors)
+- Redirect issues (301/302)
+- Duplicate pages
+- XML sitemap
+- Robots.txt file
+- Crawl errors
+
+Tools:
+- SEMrush
+- Screaming Frog SEO Spider
+- Google Search Console
+
+Goal:
+Ensure search engines can crawl and index properly.
+
+----------------------------------------
+STEP 3: ON-PAGE SEO AUDIT
+----------------------------------------
+
+Check each page for:
+
+- Title tag (unique, 50–60 characters)
+- Meta description (150–160 characters)
+- H1 tag (one per page)
+- Proper heading structure (H1–H6)
+- Keyword optimization
+- Image alt tags
+
+Goal:
+Optimize each page for target keywords.
+
+----------------------------------------
+STEP 4: CONTENT AUDIT
+----------------------------------------
+
+Analyze:
+
+- Content quality and uniqueness
+- Plagiarism check
+- Keyword usage
+- Content length
+- Readability
+
+Fix:
+- Update outdated content
+- Add value (FAQs, examples)
+- Improve structure
+
+Goal:
+Provide high-quality, user-focused content.
+
+----------------------------------------
+STEP 5: SITE STRUCTURE AUDIT
+----------------------------------------
+
+Check:
+
+- URL structure (clean and readable)
+- Internal linking
+- Navigation menu
+- Breadcrumbs
+
+Goal:
+Improve user navigation and crawlability.
+
+----------------------------------------
+STEP 6: PAGE SPEED AUDIT
+----------------------------------------
+
+Check:
+
+- Page load time
+- Core Web Vitals
+- Image optimization
+- CSS/JS optimization
+
+Tools:
+- Google PageSpeed Insights
+- GTmetrix
+
+Goal:
+Improve loading speed and performance.
+
+----------------------------------------
+STEP 7: MOBILE SEO AUDIT
+----------------------------------------
+
+Check:
+
+- Responsive design
+- Mobile usability
+- Mobile page speed
+
+Goal:
+Ensure smooth experience on all devices.
+
+----------------------------------------
+STEP 8: BACKLINK AUDIT
+----------------------------------------
+
+Analyze:
+
+- Total backlinks
+- Referring domains
+- Toxic links
+
+Tools:
+- SEMrush
+- Ahrefs
+
+Fix:
+- Remove or disavow harmful links
+- Build high-quality backlinks
+
+Goal:
+Improve domain authority.
+
+----------------------------------------
+STEP 9: LOCAL SEO AUDIT
+----------------------------------------
+
+Check:
+
+- Google Business Profile
+- NAP consistency (Name, Address, Phone)
+- Local keywords
+- Reviews and ratings
+
+Goal:
+Improve local search visibility.
+
+----------------------------------------
+STEP 10: SCHEMA MARKUP AUDIT
+----------------------------------------
+
+Check:
+
+- Structured data implementation
+- Rich snippets
+- Schema errors
+
+Tools:
+- Google Rich Results Test
+
+Goal:
+Enhance search appearance.
+
+----------------------------------------
+STEP 11: SECURITY AUDIT
+----------------------------------------
+
+Check:
+
+- HTTPS implementation
+- Malware issues
+- Security headers
+
+Goal:
+Ensure website safety.
+
+----------------------------------------
+STEP 12: ANALYTICS & TRACKING
+----------------------------------------
+
+Check:
+
+- Google Analytics setup
+- Google Search Console data
+- Conversion tracking
+
+Goal:
+Measure performance and user behavior.
+
+----------------------------------------
+FINAL CHECKLIST
+----------------------------------------
+
+✔ No technical errors  
+✔ Optimized on-page SEO  
+✔ High-quality content  
+✔ Fast loading speed  
+✔ Strong backlinks  
+✔ Mobile-friendly design  
+✔ Proper tracking setup  
+
+----------------------------------------
+FINAL RESULT
+----------------------------------------
+
+After completing the audit:
+
+- Improved search engine rankings
+- Better user experience
+- Increased website traffic
+- Higher conversions
+
+=================================
+END OF DOCUMENT
+=================================
